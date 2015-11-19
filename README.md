@@ -1,5 +1,5 @@
 # webrtc_demo
-webrtc_play_file
+webrtc的播放音频文件；录制麦克风到文件；播放麦克风声音的例子。
 
 
 hh01: 播放音频文件的demo
